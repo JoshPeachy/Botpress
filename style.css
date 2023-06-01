@@ -1,9 +1,11 @@
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
   background-color: #FFC78A;
   border-radius: 30px;
+  border-style: none;
   }
 
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
   background-color: #FCF8F1;
   border-radius: 30px;
+  border-style: none;
   }
