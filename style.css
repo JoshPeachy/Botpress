@@ -1,11 +1,21 @@
+/* User Text Bubble Styling */
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+  color: #1D1D1F;
   background-color: #FFC78A;
   border-radius: 30px;
   border-style: none;
   }
 
+/* Bot Text Bubble Styling */
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+  color: #1D1D1F;
   background-color: #FCF8F1;
   border-radius: 30px;
   border-style: none;
+  }
+
+/* Bot Widget Icon Styling */
+.bpw-widget-btn {
+  background-color: #1D1D1F;
+  border-radius: 100px;
   }
