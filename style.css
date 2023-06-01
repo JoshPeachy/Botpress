@@ -1,5 +1,1 @@
-.bpw-from-bot {background-color: red;}
-
-.bpw-chat-bubble {background-color: red;}
-
-.bpw-chat-bubble-content{background-color: red;}
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {background-color: red;}
