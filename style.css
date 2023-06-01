@@ -51,12 +51,17 @@ body {
 }
 
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-  background-color: #000000;
+  color: #1D1D1F;
+  background-color: #FFC78A;
+  border-radius: 30px;
+  border-style: none;
 }
 
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
-  background-color: #ffffff;
-  color: #000000;
+  color: #1D1D1F;
+  background-color: #FCF8F1;
+  border-radius: 30px;
+  border-style: none;
 }
 
 .bp-emulator-history .bpw-chat-bubble {
@@ -72,7 +77,8 @@ body {
 }
 
 .bpw-widget-btn {
-  background-color: #000000;
+  background-color: #1D1D1F;
+  border-radius: 100px;
 }
 
 .bpw-message-read-more {
@@ -94,15 +100,15 @@ body {
 }
 
 .bpw-chat-container {
-  background-color: #ffffff;
+  background-color: #FDFBF7;
   color: #000000;
 }
 
 .bpw-layout {
   position: fixed;
-  bottom: 0;
-  right: 0;
-  height: 100%;
+  bottom: 20px;
+  right: 20px;
+  height: 80%;
   border-left: 1px solid #ccc;
   -webkit-box-orient: vertical;
   -ms-flex-direction: column;
