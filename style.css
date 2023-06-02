@@ -109,9 +109,7 @@ body {
   bottom: 20px;
   right: 20px;
   height: 80%;
-  border-left: 1px solid #ccc;
-  border-right: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
+  border: 1px solid #1d1d1f;
   border-radius: 10px;
   -webkit-box-orient: vertical;
   -ms-flex-direction: column;
