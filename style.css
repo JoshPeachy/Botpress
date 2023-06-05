@@ -1,27 +1,3 @@
-/* User Text Bubble Styling
-.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-  color: #1D1D1F;
-  background-color: #FFC78A;
-  border-radius: 30px;
-  border-style: none;
-  }
-
-Bot Text Bubble Styling
-.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
-  color: #1D1D1F;
-  background-color: #FCF8F1;
-  border-radius: 30px;
-  border-style: none;
-  }
-
-Bot Widget Icon Styling
-.bpw-widget-btn {
-  background-color: #1D1D1F;
-  border-radius: 100px;
-  }
-*/
-
-/* Old version IE 10 and 11 only */
 :root {
   --main-bg-color: #ffffff;
   --main-bg-color-hover: rgba(255, 255, 255, 0.9);
@@ -100,7 +76,7 @@ body {
 }
 
 .bpw-chat-container {
-  background-color: #FDFBF7;
+  background-color: #FFFFFF;
   color: #000000;
 }
 
